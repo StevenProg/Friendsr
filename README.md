@@ -8,7 +8,7 @@
 
 Using this app you can rate the characters of Game of Thrones
 
-![alt text](friendsr.jpg " ")
+![alt text](doc/friendsr.jpg " ")
 
 
 Created by Steven Schoenmaker(10777679)
