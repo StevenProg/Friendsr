@@ -7,3 +7,9 @@
 ## Other files are for the friendsr app
 
 Using this app you can rate the characters of Game of Thrones
+
+![alt text](friendsr.jpg " ")
+
+
+Created by Steven Schoenmaker(10777679)
+
